@@ -1,0 +1,7 @@
+﻿  Super caculator.cpp
+C:\Users\peter\source\repos\Super caculator\Super caculator\tinh_toan.h(27,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\peter\source\repos\Super caculator\Super caculator\tinh_toan.h(113,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\peter\source\repos\Super caculator\Super caculator\tinh_toan.h(152,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\peter\source\repos\Super caculator\Super caculator\tinh_toan.h(153,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\peter\source\repos\Super caculator\Super caculator\Super caculator.cpp(52): warning C4715: 'so_toan_tu': not all control paths return a value
+  Super caculator.vcxproj -> C:\Users\peter\source\repos\Super caculator\x64\Debug\Super caculator.exe
